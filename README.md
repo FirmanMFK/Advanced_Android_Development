@@ -3,6 +3,8 @@ Advanced Android Sample App
 
 Synchronizes weather information from OpenWeatherMap on Android Phones and Tablets. Used in the Udacity Advanced Android course.
 
+<img src="device-2017-04-27-174344.png" width="200" height="400" align="left"/>
+<img src="device-2017-04-27-174537.png" width="200" height="400" align="left"/>
 Pre-requisites
 --------------
 Android SDK 21 or Higher
